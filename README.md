@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **dynamic programming**
 
-- 👯 I’m looking to collaborate on **a**
+- 👯 I’m looking to collaborate on **a project where i can help and learn also**
 
 - 🤝 I’m looking for help with **Spring Boot**
 
