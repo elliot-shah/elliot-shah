@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahid Siddiqui</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning how to make **Chrome Extention**
+- 🌱 I’m currently learning how to make **Extention**
 
 - 👯 I’m looking to collaborate on **a Project where i can help and learn also**
 
